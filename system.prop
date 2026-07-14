@@ -2,3 +2,10 @@
 persist.dbg.volte_avail_ovr=1
 persist.dbg.vt_avail_ovr=1
 persist.dbg.wfc_avail_ovr=1
+
+# Infinity Specific Properties
+ro.product.marketname=Motorola Edge 40 Neo
+ro.infinity.soc=MediaTek Dimensity 7030
+ro.infinity.camera=50MP + 13MP + 32MP
+ro.infinity.battery=5000 mAh
+ro.infinity.display=1080 x 2400, 144 Hz pOLED
