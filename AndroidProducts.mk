@@ -5,4 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/custom_manaus.mk
+    $(LOCAL_DIR)/infinity_manaus.mk
+
+COMMON_LUNCH_CHOICES := \
+    infinity_manaus-user \
+    infinity_manaus-userdebug \
+    infinity_manaus-eng
